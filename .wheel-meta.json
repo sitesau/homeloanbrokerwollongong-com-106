@@ -1,0 +1,22 @@
+{
+  "wheel_id": 774,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-com-106",
+  "project": "home-loan-brokers-wollongong-glossary-614dc050dd65edd5c18f8467c",
+  "parent_t1_ref": "homeloanbrokerwollongong-com-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "home loan brokers wollongong glossary",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-brokers-wollongong-glossary-614dc050dd65edd5c18f8467c/",
+  "tier": "T2",
+  "writeback_nonce": "43ed80d9ff764af3",
+  "links": [
+    {
+      "target_url": "http://home-loan-brokers-wollongong-aea528703efc326f06ecb39e6dc5c51c45.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to home loan brokers wollongong",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
